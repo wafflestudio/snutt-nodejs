@@ -36,7 +36,7 @@
     "body-parser": "~1.20.1",
     "cookie-parser": "~1.4.3",
     "cors": "~2.8.4",
-    "ejs": "~3.1.7",
+    "ejs": "~3.1.10",
     "express": "~4.17.3",
     "express-promise-router": "^3.0.3",
     "immutable": "~3.8.2",
