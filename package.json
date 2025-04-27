@@ -42,7 +42,7 @@
     "immutable": "~3.8.2",
     "js-yaml": "^3.13.1",
     "jsonwebtoken": "~5.5.0",
-    "mocha": "~5.2.0",
+    "mocha": "~10.4.0",
     "module-alias": "^2.0.6",
     "mongodb": "~3.1.13",
     "mongoose": "^5.7.5",
